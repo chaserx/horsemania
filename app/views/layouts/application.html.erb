@@ -22,7 +22,7 @@
 	<link href="/stylesheets/blueprint/print.css" rel="stylesheet" type="text/css" media="print" />
     <%= yield(:head) %>
   </head>
-  <body>
+  <body id="<%= h(params[:action] || "identity") %>">
     <%= render :partial => "partials/header" %>	
 	<div id="wrap">
 	  <div id="wrap-inner">
@@ -39,5 +39,6 @@
 	    </div>
 	  </div>
     </div>
+    <%= render :partial => "partials/footer" %>	
   </body>
 </html>
