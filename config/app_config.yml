@@ -1,0 +1,9 @@
+development:
+  domain: localhost:3000
+  GOOGLE_APPLICATION_ID: ABQIAAAA3HdfrnxFAPWyY-aiJUxmqRTJQa0g3IQ9GZqIMmInSLzwtGDKaBQ0KYLwBEKSM7F9gCevcsIf6WPuIQ
+
+test:
+  domain: test.host
+
+production:
+  domain: example.com

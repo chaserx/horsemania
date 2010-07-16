@@ -1,0 +1,31 @@
+<% title "Locations" %>
+<!--
+<table>
+  <tr>
+    <th>Title</th>
+    <th>Desc</th>
+    <th>Lat</th>
+    <th>Lon</th>
+  </tr>
+//-->
+  <ol>
+  <% for location in @locations %>
+
+      <li><%=h location.title %> :<%= link_to "Show", location %> | <%= link_to "Edit", edit_location_path(location) %> | <%= link_to "Destroy", location, :confirm => 'Are you sure?', :method => :delete %></li>
+
+    <!-->
+    <tr>
+      <td><%=h location.title %></td>
+      <td><%=h location.desc %></td>
+      <td><%=h location.lat %></td>
+      <td><%=h location.lon %></td>
+      <td><%= link_to "Show", location %></td>
+      <td><%= link_to "Edit", edit_location_path(location) %></td>
+      <td><%= link_to "Destroy", location, :confirm => 'Are you sure?', :method => :delete %></td>
+    </tr>
+    //-->
+  <% end %>
+  </ol>
+<!-- </table> //-->
+
+<p><%= link_to "New Location", new_location_path %></p>
