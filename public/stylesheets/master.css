@@ -1,5 +1,11 @@
 /* @override http://localhost:3000/stylesheets/master.css */
 
+/* commented backslash hack \*/ 
+html, body{height:100%;} 
+/* end hack */
+html,body {margin:0;padding:0}
+
+
 a {
 	text-decoration: none;
 }
@@ -25,13 +31,14 @@ height: 600px;
 width: 100%;
 }
 
+#wrap {min-height:100%;height:auto;background:#ffffcc}
+
+* html #wrap {height:100%;}/* ie6 and under*/
+
 #main {
 margin: 0 330px 0 20px;
-overflow: hidden;
-}
-
-div#content {
-	
+overflow: visible;
+height: 100%;
 }
 
 div#secondary {
