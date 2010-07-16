@@ -1,22 +1,44 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html>
+<html lang="en">
   <head>
-    <title><%= h(yield(:title) || "Untitled") %></title>
-    <%= stylesheet_link_tag 'application' %>
+	<meta charset="utf-8"/>
+    <title><%= h(yield(:title) || "horsemania") %></title>
+
+    <!-- CSS  -->
+	
+	<link href="/stylesheets/blueprint/reset.css" rel="stylesheet" type="text/css" media="screen,projection" />
+	<link href="/stylesheets/blueprint/typography.css" rel="stylesheet" type="text/css" media="screen,projection" />
+	<link href="/stylesheets/blueprint/forms.css" rel="stylesheet" type="text/css" media="screen,projection" />
+
+    <!--[if IE]
+      <%= stylesheet_link_tag 'blueprint/ie', :cache => true, :media => "screen,projection"-%>
+		<link href="/stylesheets/blueprint/ie.css" rel="stylesheet" type="text/css" media="screen" />
+    -->
+
+	<%# Am using static link for a workflow reason %>
+	<link href="/stylesheets/master.css" rel="stylesheet" type="text/css" media="screen" />
+	<link href="/stylesheets/flashes.css" rel="stylesheet" type="text/css" media="screen" />
+
+	<link href="/stylesheets/blueprint/print.css" rel="stylesheet" type="text/css" media="print" />
     <%= yield(:head) %>
   </head>
-  <body>
-    <div id="container">
-      <%- flash.each do |name, msg| -%>
-        <%= content_tag :div, msg, :id => "flash_#{name}" %>
-      <%- end -%>
+  <body id="<%= h(params[:action] || "identity") %>">
+    <%= render :partial => "partials/header" %>	
+	<div id="wrap">
+	  <div id="wrap-inner">
+	      <%- flash.each do |name, msg| -%>
+	        <%= content_tag :div, msg, :id => "flash_#{name}" %>
+	      <%- end -%>
       
-      <%- if show_title? -%>
-        <h1><%=h yield(:title) %></h1>
-      <%- end -%>
-      
-      <%= yield %>
+	      <%- if show_title? -%>
+	        <h1><%=h yield(:title) %></h1>
+	      <%- end -%>
+		
+		  <div id="content" class="group">      
+   	        <%= yield %>
+	    </div>
+	  </div>
     </div>
+    <%= render :partial => "partials/footer" %>	
   </body>
 </html>
