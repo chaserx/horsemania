@@ -37,7 +37,7 @@ class MapsController < ApplicationController
 	      :icon => GoogleMap::SmallIcon.new(@map, 'blue'),
 	      :lat => loc.lat,
 	      :lng => loc.lon,
-	      :html => loc.desc,
+	      :html => "<h1>#{loc.title}</h1><br />#{loc.desc}<br /><a href=\"localhost:3000/upload/#{loc.id}\">Add your photo</a>",
 	      :open_infoWindow => false
 	    )
     end
