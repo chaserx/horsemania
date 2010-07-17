@@ -30,7 +30,7 @@
 </p>
 <ul>
   <% for asset in @location.assets %>
-    <li><%= image_tag asset.url(:thumb) %></li>
+    <li><%= image_tag asset.url(:large) %></li>
   <% end %>
 </ul>
 
