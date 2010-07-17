@@ -28,6 +28,11 @@
   <strong>Sponsor:</strong>
   <%=h @location.sponsor %>
 </p>
+<ul>
+  <% for asset in @location.assets %>
+    <li><%= image_tag asset.url(:thumb) %></li>
+  <% end %>
+</ul>
 
 <p>
   <%= link_to "Edit", edit_location_path(@location) %> |

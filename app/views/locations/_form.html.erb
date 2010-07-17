@@ -1,4 +1,4 @@
-<% form_for @location do |f| %>
+<% form_for (@location, :html => { :multipart => true }) do |f| %>
   <%= f.error_messages %>
   <p>
     <%= f.label :title %><br />
@@ -27,6 +27,10 @@
   <p>
     <%= f.label :sponsor %><br />
     <%= f.text_field :sponsor %>
+  </p>
+  <p>
+      Attach a file or image <br />
+      <%= f.file_field :data%>
   </p>
   <p><%= f.submit %></p>
 <% end %>
