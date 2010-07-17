@@ -3,489 +3,736 @@
   lat:  38.042923
   lon:  -84.501297
   title: 1 hp
+  artist: Carl Coakley
+  artist_location:  'Frankfort, KY'
+  sponsor:  Wilhite Limited Inc.
 
 Ashland Stud: 
   desc: '<div><div>201 East Main Street<br>Lexington, KY </div><div><span>ID:</span>&nbsp;2</div><div><span>Artist:</span>&nbsp;Christy Buckner</div><div><span>Artist Location:</span>&nbsp;Lexington, KY</div><div><span>Sponsor:</span>&nbsp;McBrayer, McGinnis, Leslie &amp; Kirkland, PLLC</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/09/12/2010HM02AshlandStud_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.044468
   lon:  -84.494675
   title: Ashland Stud
+  artist: Christy Buckner
+  artist_location:  'Lexington, KY'
+  sponsor:  'McBrayer, McGinnis, Leslie'
 
 Bewitched: 
   desc: '<div><div>430 West Vine Street<br>Lexington, KY </div><div><span>ID:</span>&nbsp;3</div><div><span>Artist:</span>&nbsp;Holly VanMeter</div><div><span>Artist Location:</span>&nbsp;Winchester, KY</div><div><span>Sponsor:</span>&nbsp;Healy Family McDonald\xE2\x80\x99s In Honor/Memory of Gerald F. Healy II</div><img hspace=\"1\" src=\"http://media.kentucky.com/smedia/2010/07/08/10/2010HM03Bewitched_150.standalone.prod_affiliate.79.jpg\" valign=\"top\" align=\"center\" border=\"0\" vspace=\"5\"></div>'
   lat:  38.049870
   lon:  -84.501434
   title: Bewitched
+  artist: Holly VanMeter
+  artist_location:  'Winchester, KY'
+  sponsor:  Healy Family McDonald\xE2\x80\x99s In Honor/Memory of Gerald F. Healy II
 
 Black and White and Read All Over: 
   desc: '<div><div>209 E. High St.<br>Lexington, KY </div><div><span>ID:</span>&nbsp;4</div><div><span>Artist:</span>&nbsp;Melissa A. Brown</div><div><span>Artist Location:</span>&nbsp;Lexington, KY</div><div><span>Sponsor:</span>&nbsp;The Beck House</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/08/10/2010HM04BlackandWhite_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.043049
   lon:  -84.496300
   title: Black and White and Read All Over
+  artist: Melissa A. Brown
+  artist_location:  'Lexington, KY'
+  sponsor:  The Beck House
 
 The Blue Grass Champ: 
   desc: '<div><div>250 West Third Street<br>Lexington, KY </div><div><span>ID:</span>&nbsp;5</div><div><span>Artist:</span>&nbsp;PEB (Pierre Bellocq)</div><div><span>Artist Location:</span>&nbsp;Lexington, KY</div><div><span>Sponsor:</span>&nbsp;Keeneland Association Inc.</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/08/11/2010HM05BlueGrassChamp_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.050678
   lon:  -84.494827
   title: The Blue Grass Champ
+  artist: PEB (Pierre Bellocq)
+  artist_location:  'Lexington, KY'
+  sponsor:  Keeneland Association Inc.
 
 Bourbon Barrel Horse: 
   desc: '<div><div>Vine &amp; Mill<br>Lexington, KY </div><div><span>ID:</span>&nbsp;6</div><div><span>Artist:</span>&nbsp;Brian D. Endicott</div><div><span>Artist Location:</span>&nbsp;Lexington, KY</div><div><span>Sponsor:</span>&nbsp;Stites &amp; Harbison, PLLC</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/08/11/2010HM06BourbonBarrel_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.047401
   lon:  -84.499535
   title: Bourbon Barrel Horse
+  artist: Brian D. Endicott
+  artist_location:  'Lexington, KY'
+  sponsor:  'Stites &amp; Harbison, PLLC'
 
 Brown and White Appaloosa: 
   desc: '<div><div>Short and Upper<br>Lexington, KY </div><div><span>ID:</span>&nbsp;7</div><div><span>Artist:</span>&nbsp;Marco Logsdon</div><div><span>Artist Location:</span>&nbsp;Lexington, KY</div><div><span>Sponsor:</span>&nbsp;Churchill McGee LLC, Mann Sutton &amp; McGee Insurance and The Motorists Insurance Group</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/08/14/2010HM07BrownandWhite_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.047924
   lon:  -84.497185
   title: Brown and White Appaloosa (Center Focus)
+  artist: Marco Logsdon
+  artist_location:  'Lexington, KY'
+  sponsor:  'Churchill McGee LLC, Mann Sutton &amp; McGee Insurance and The Motorists Insurance Group'
 
 Bubbles: 
   desc: '<div><div>239 High Street<br>Lexington, KY </div><div><span>ID:</span>&nbsp;8</div><div><span>Artist:</span>&nbsp;Cheryl Powell</div><div><span>Artist Location:</span>&nbsp;Berea, KY</div><div><span>Sponsor:</span>&nbsp;YMCA</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/09/10/2010HM08Bubbles_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.042278
   lon:  -84.495384
   title: Bubbles
+  artist: Cheryl Powell
+  artist_location:  'Berea, KY'
+  sponsor:  YMCA
 
 Casablanca: 
   desc: '<div><div>412 Rose Street<br>Lexington, KY </div><div><span>ID:</span>&nbsp;9</div><div><span>Artist:</span>&nbsp;Arturo Alonzo Sandoval</div><div><span>Artist Location:</span>&nbsp;Lexington, KY</div><div><span>Sponsor:</span>&nbsp;UK Opera Theatre - Schmidt Building</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/08/11/2010HM09Casablanca_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.037209
   lon: -84.500954
   title: Casablanca
+  artist: Arturo Alonzo Sandoval
+  artist_location:  'Lexington, KY'
+  sponsor:  UK Opera Theatre - Schmidt Building
 
 Cheval D' Etoile: 
   desc: '<div><div>1221 South Broadway<br>Lexington, KY </div><div><span>ID:</span>&nbsp;10</div><div><span>Artist:</span>&nbsp;Christy Buckner</div><div><span>Artist Location:</span>&nbsp;Lexington, KY</div><div><span>Sponsor:</span>&nbsp;Lexington Clinic</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/08/14/2010HM10ChevalDEtoile_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.035244
   lon:  -84.521088
   title: Cheval D' Etoile
+  artist: Christy Buckner
+  artist_location:  'Lexington, KY'
+  sponsor:  Lexington Clinic
 
 Cloisonneigh: 
   desc: '<div><div>400 West Main Street<br>Lexington, KY </div><div><span>ID:</span>&nbsp;11</div><div><span>Artist:</span>&nbsp;Priscilla Roberts Fallon and Family</div><div><span>Artist Location:</span>&nbsp;Lexington, KY</div><div><span>Sponsor:</span>&nbsp;Kentucky Thoroughbred Association, Inc.</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/08/14/2010HM11Cloisonneigh_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.048683
   lon:  -84.500732
   title: Cloisonneigh
+  artist: Priscilla Roberts Fallon and Family
+  artist_location:  'Lexington, KY'
+  sponsor:  'Kentucky Thoroughbred Association, Inc.'
 
 Crazy Quilted Horse: 
   desc: '<div><div>430 West Vine Street<br>Lexington, KY </div><div><span>ID:</span>&nbsp;12</div><div><span>Artist:</span>&nbsp;Belinda and Larry May</div><div><span>Artist Location:</span>&nbsp;Clay City, KY</div><div><span>Sponsor:</span>&nbsp;Hospice of the Bluegrass</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/08/11/2010HM12CrazyQuilted_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.049175
   lon:  -84.501221
   title: Crazy Quilted Horse
+  artist: Belinda and Larry May
+  artist_location:  'Clay City, KY'
+  sponsor:  Hospice of the Bluegrass
 
 Dark Star: 
   desc: '<div><div>140 East Main Street<br>Lexington, KY </div><div><span>ID:</span>&nbsp;13</div><div><span>Artist:</span>&nbsp;Becky Faulconer and Harold Faulconer</div><div><span>Artist Location:</span>&nbsp;Lexington, KY</div><div><span>Sponsor:</span>&nbsp;Anonymous Sponsor</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/09/10/2010HM13DarkStar_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.045929
   lon: -84.496933
   title: Dark Star
+  artist: Becky Faulconer and Harold Faulconer
+  artist_location: 'Lexington, KY'
+  sponsor:  Anonymous Sponsor
 
 Day Star: 
   desc: '<div><div>300 West Vine Street<br>Lexington, KY </div><div><span>ID:</span>&nbsp;14</div><div><span>Artist:</span>&nbsp;Dan Neil Barnes and Philip Rodriguez</div><div><span>Artist Location:</span>&nbsp;Lexington, KY</div><div><span>Sponsor:</span>&nbsp;Central Bank</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/09/10/2010HM14DayStar_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.047714
   lon:  -84.500549
   title: Day Star
+  artist: Dan Neil Barnes and Philip Rodriguez
+  artist_location: 'Lexington, KY'
+  sponsor:  Central Bank
 
 Desert Dream: 
   desc: '<div><div>161 North Mill Street<br>Lexington, KY </div><div><span>ID:</span>&nbsp;15</div><div><span>Artist:</span>&nbsp;Adalin Wichman</div><div><span>Artist Location:</span>&nbsp;Lexington, KY</div><div><span>Sponsor:</span>&nbsp;LexArts Inc.</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/09/10/2010HM15DesertDream_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.049362
   lon: -84.497467
   title: Desert Dream
+  artist: Adalin Wichman
+  artist_location:  'Lexington, KY'
+  sponsor:  LexArts Inc.
 
 Digital Horse: 
   desc: '<div><div>333 W. Vine Street<br>Lexington, KY </div><div><span>ID:</span>&nbsp;16</div><div><span>Artist:</span>&nbsp;Duane Keaton</div><div><span>Artist Location:</span>&nbsp;Nicholasville, KY</div><div><span>Sponsor:</span>&nbsp;QX.net</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/08/10/2010HM16DigitalHorse_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.048111
   lon:  -84.499268
   title: Digital Horse
+  artist: Duane Keaton
+  artist_location:  'Nicholasville, KY'
+  sponsor:  QX.net
 
 The Disciplined Horse: 
   desc: '<div><div>1059 S. Broadway<br>Lexington, KY </div><div><span>ID:</span>&nbsp;17</div><div><span>Artist:</span>&nbsp;Tonya Leigh Morgan</div><div><span>Artist Location:</span>&nbsp;Harrodsburg, KY</div><div><span>Sponsor:</span>&nbsp;Avis Rent A Car</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/09/12/2010HM17DisciplinedHorse_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.037407
   lon:  -84.517517
   title: The Disciplined Horse
+  artist: Tonya Leigh Morgan
+  artist_location: 'Harrodsburg, KY'
+  sponsor:  Avis Rent A Car
 
 Egyptian Treasure: 
   desc: '<div><div>250 West Main Street<br>Lexington, KY </div><div><span>ID:</span>&nbsp;18</div><div><span>Artist:</span>&nbsp;Shirley Gentry</div><div><span>Artist Location:</span>&nbsp;Carlisle, KY</div><div><span>Sponsor:</span>&nbsp;Frost Brown Todd LLC</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/08/11/2010HM18EgyptianTreasure_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.047096
   lon:  -84.499268
   title: Egyptian Treasure
+  artist: Shirley Gentry
+  artist_location: 'Carlisle, KY'
+  sponsor:  Frost Brown Todd LLC
 
 Elpida: 
   desc: '<div><div>401 West Main Street<br>Lexington, KY </div><div><span>ID:</span>&nbsp;19</div><div><span>Artist:</span>&nbsp;Melissa A. Michael</div><div><span>Artist Location:</span>&nbsp;Lexington, KY</div><div><span>Sponsor:</span>&nbsp;Anonymous Sponsor</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/09/10/2010HM19Elpida_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.049240
   lon:  -84.499977
   title: Elpida
+  artist: Melissa A. Michael
+  artist_location:  'Lexington, KY'
+  sponsor:  Anonymous Sponsor
 
 Equestrian: 
   desc: '<div><div>Nicholasville &amp; Cooper<br>Lexington, KY </div><div><span>ID:</span>&nbsp;20</div><div><span>Artist:</span>&nbsp;Jennifer Conrad-Barber</div><div><span>Artist Location:</span>&nbsp;Winchester, KY</div><div><span>Sponsor:</span>&nbsp;University of Kentucky Equine Initiative</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/08/14/2010HM20Equestrian_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.027458
   lon:  -84.510246
   title: Equestrian
+  artist: Jennifer Conrad-Barber
+  artist_location:  'Winchester, KY'
+  sponsor:  University of Kentucky Equine Initiative
 
 Fionghan: 
   desc: '<div><div>301 East Main Street<br>Lexington, KY </div><div><span>ID:</span>&nbsp;21</div><div><span>Artist:</span>&nbsp;Megan L. Gilvin</div><div><span>Artist Location:</span>&nbsp;Sharpsburg, KY</div><div><span>Sponsor:</span>&nbsp;PNC Bank</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/09/10/2010HM21Fionghan_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.042973
   lon:  -84.492928
   title: Fionghan
+  artist: Megan L. Gilvin
+  artist_location:  'Sharpsburg, KY'
+  sponsor:  PNC Bank
 
 Foluil: 
   desc: '<div><div>380 S. Mill Street<br>Lexington, KY </div><div><span>ID:</span>&nbsp;22</div><div><span>Artist:</span>&nbsp;Liza Kavanagh</div><div><span>Artist Location:</span>&nbsp;County Kildare, Ireland</div><div><span>Sponsor:</span>&nbsp;Balatro Gallery</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/09/10/2010HM22Foluil_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.045391
   lon:  -84.502411
   title: "Fol\xC3\xBAil"
+  artist: Liza Kavanagh
+  artist_location:  'County Kildare, Ireland'
+  sponsor:  Balatro Gallery
 
 Glade Runner: 
   desc: '<div><div>Grand Avenue &amp; Old Vine<br>Lexington, KY </div><div><span>ID:</span>&nbsp;23</div><div><span>Artist:</span>&nbsp;Philip High</div><div><span>Artist Location:</span>&nbsp;Lexington, KY</div><div><span>Sponsor:</span>&nbsp;M2D Design + Friends</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/09/10/2010HM23GladeRunner_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.040092
   lon:  -84.492584
   title: Glade Runner
+  artist: Philip High
+  artist_location:  'Lexington, KY'
+  sponsor:  M2D Design + Friends
 
 Glorious Cartographer: 
   desc: '<div><div>236 West Vine Street<br>Lexington, KY </div><div><span>ID:</span>&nbsp;24</div><div><span>Artist:</span>&nbsp;James R. Southard</div><div><span>Artist Location:</span>&nbsp;Pittsburgh, PA</div><div><span>Sponsor:</span>&nbsp;Fifth Third Bank</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/09/10/2010HM24GloriousCarto_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.046783
   lon:  -84.498840
   title: Glorious Cartographer
+  artist: James R. Southard
+  artist_location:  'Pittsburgh, PA'
+  sponsor:  Fifth Third Bank
 
 Goochiepoochieploddapony: 
   desc: '<div><div>Broadway &amp; Vine<br>Lexington, KY </div><div><span>ID:</span>&nbsp;25</div><div><span>Artist:</span>&nbsp;Marcia Cone</div><div><span>Sponsor:</span>&nbsp;Hilton Lexington/Downtown</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/09/10/2010HM25GoochieNEW_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.048298
   lon:  -84.500404
   title: Goochiepoochieploddapony
+  artist: Marcia Cone
+  artist_location:  'Lexington, KY'
+  sponsor:  Hilton Lexington/Downtown
 
 Grace Under Pressure: 
   desc: '<div><div>121 Midland Avenue<br>Lexington, KY </div><div><span>ID:</span>&nbsp;26</div><div><span>Artist:</span>&nbsp;Philip High</div><div><span>Artist Location:</span>&nbsp;Lexington, KY</div><div><span>Sponsor:</span>&nbsp;NGAS Resources, Inc.</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/09/10/2010HM26GraceUnder_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.041756
   lon:  -84.489807
   title: Grace Under Pressure
+  artist: Philip High
+  artist_location:  'Lexington, KY'
+  sponsor:  'NGAS Resources, Inc.'
 
 Grapevine: 
   desc: '<div><div>Limestone &amp; Vine<br>Lexington, KY </div><div><span>ID:</span>&nbsp;27</div><div><span>Artist:</span>&nbsp;Vida Vitagliano</div><div><span>Artist Location:</span>&nbsp;Springfield, KY</div><div><span>Sponsor:</span>&nbsp;Dean Dorton &amp; Ford</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/09/10/2010HM27Grapevine_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.046005
   lon:  -84.498146
   title: Grapevine
+  artist: Vida Vitagliano
+  artist_location:  'Springfield, KY'
+  sponsor:  'Dean Dorton &amp; Ford'
 
 Henry: 
   desc: '<div><div>400 West Main Street<br>Lexington, KY </div><div><span>ID:</span>&nbsp;28</div><div><span>Artist:</span>&nbsp;Mary Wathen</div><div><span>Artist Location:</span>&nbsp;Lexington, KY</div><div><span>Sponsor:</span>&nbsp;Hilliard Lyons</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/09/10/2010HM28HenryFaulkner_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.048889
   lon:  -84.500366
-  title: Henry, A Tribute to Henry Faulkner
+  title: 'Henry, A Tribute to Henry Faulkner'
+  artist: Mary Wathen
+  artist_location:  'Lexington, KY'
+  sponsor:  Hilliard Lyons
 
 A Horse of a Different Shell: 
   desc: '<div><div>4435 Old Frankfort Pike<br>Lexington, KY </div><div><span>ID:</span>&nbsp;29</div><div><span>Artist:</span>&nbsp;Holly Johnson</div><div><span>Artist Location:</span>&nbsp;Lexington, KY</div><div><span>Sponsor:</span>&nbsp;Headley-Whitney Museum</div><img src="http://media.kentucky.com/smedia/2010/07/09/11/2010HM29HorseDiffShell_150.standalone.prod_affiliate.79.jpg" valign="top" vspace="5" align="center" border="0" hspace="1"></div>'
   lat:  38.095348
   lon:  -84.611023
   title: A Horse of a Different Shell
+  artist: Holly Johnson
+  artist_location:  'Lexington, KY'
+  sponsor:  Headley-Whitney Museum
 
 In the Sky with Diamonds: 
   desc: '<div><div>318 East Main Street<br>Lexington, KY </div><div><span>ID:</span>&nbsp;30</div><div><span>Artist:</span>&nbsp;Linda Sherly</div><div><span>Artist Location:</span>&nbsp;Lexington, KY</div><div><span>Sponsor:</span>&nbsp;American Founders Bank</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/08/11/2010HM30InSkyDiamonds_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.042686
   lon:  -84.493263
   title: In the Sky with Diamonds
+  artist: Linda Sherly
+  artist_location:  'Lexington, KY'
+  sponsor:  American Founders Bank
 
 The Industrial Evolution: 
   desc: '<div><div>201 Walton Avenue<br>Lexington, KY </div><div><span>ID:</span>&nbsp;31</div><div><span>Artist:</span>&nbsp;Damon Farmer</div><div><span>Artist Location:</span>&nbsp;Versailles, KY</div><div><span>Sponsor:</span>&nbsp;Slone &amp; Benton PSC, and Cabinets &amp; Designs, Inc.</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/08/11/2010HM31IndustrialRev_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.039185
   lon:  -84.482124
   title: The Industrial Evolution
+  artist: Damon Farmer
+  artist_location:  'Versailles, KY'
+  sponsor:  'Slone &amp; Benton PSC, and Cabinets &amp; Designs, Inc.'
 
 It's Rocking Lexington: 
   desc: '<div><div>710 West High Street<br>Lexington, KY </div><div><span>ID:</span>&nbsp;32</div><div><span>Artist:</span>&nbsp;Lloyd Hughes</div><div><span>Artist Location:</span>&nbsp;Lexington, KY</div><div><span>Sponsor:</span>&nbsp;Community Action Council</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/08/11/2010HM32Rocking_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.049782
   lon:  -84.505516
   title: It's Rocking Lexington
+  artist: Lloyd Hughes
+  artist_location:  'Lexington, KY'
+  sponsor:  Community Action Council
 
 Keeneland Experience: 
   desc: '<div><div>250 West Main Street<br>Lexington, KY </div><div><span>ID:</span>&nbsp;33</div><div><span>Artist:</span>&nbsp;Sarah Cobb Spradlin</div><div><span>Artist Location:</span>&nbsp;Paris, KY</div><div><span>Sponsor:</span>&nbsp;Fortune Realty, LLC</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/08/11/2010HM33KeenelandExper_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.047424
   lon:  -84.498520
   title: Keeneland Experience
+  artist: Sarah Cobb Spradlin
+  artist_location:  'Paris, KY'
+  sponsor:  'Fortune Realty, LLC'
 
 Kentucky in Black and White: 
   desc: '<div><div>194 North Limestone Street<br>Lexington, KY </div><div><span>ID:</span>&nbsp;34</div><div><span>Artist:</span>&nbsp;Sayre Upper School Students</div><div><span>Artist Location:</span>&nbsp;Lexington, KY</div><div><span>Sponsor:</span>&nbsp;Sayre School</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/09/11/2010HM34KYBlackWhite_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.048180
   lon:  -84.494064
   title: Kentucky in Black and White
+  artist: Sayre Upper School Students
+  artist_location: 'Lexington, KY'
+  sponsor:  Sayre School
 
 Kentucky Theater Day and Night: 
   desc: '<div><div>120 North Limestone Street<br>Lexington, KY </div><div><span>ID:</span>&nbsp;35</div><div><span>Artist:</span>&nbsp;Robert Love</div><div><span>Artist Location:</span>&nbsp;Lexington, KY</div><div><span>Sponsor:</span>&nbsp;St. Joseph Hospital</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/08/14/2010HM35KyTheater_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.046623
   lon:  -84.496277
   title: Kentucky Theater Day and Night
+  artist: Robert Love
+  artist_location:  'Lexington, KY'
+  sponsor:  St. Joseph Hospital
 
 Kentucky's Power: 
   desc: '<div><div>Midland Avenue &amp; Nelson Street<br>Lexington, KY </div><div><span>ID:</span>&nbsp;36</div><div><span>Artist:</span>&nbsp;Eastern Kentucky University</div><div><span>Artist Location:</span>&nbsp;Richmond, KY</div><div><span>Sponsor:</span>&nbsp;Eastern Kentucky University</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/09/11/2010HM36KYPower_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.044056
   lon:  -84.484261
   title: Kentucky's Power
+  artist: Eastern Kentucky University
+  artist_location:  'Richmond, KY'
+  sponsor:  Eastern Kentucky University
 
 Knight and Day: 
   desc: '<div><div>Midland Avenue &amp; Nelson Street<br>Lexington, KY </div><div><span>ID:</span>&nbsp;37</div><div><span>Artist:</span>&nbsp;Clare Koury of Lexington Catholic High School</div><div><span>Artist Location:</span>&nbsp;Lexington, KY</div><div><span>Sponsor:</span>&nbsp;Morgan Worldwide Consultants on behalf of Lexington Catholic High School</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/08/11/2010HM37KnightDay_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.043701
   lon:  -84.483727
   title: Knight and Day
+  artist: Clare Koury of Lexington Catholic High School
+  artist_location:  'Lexington, KY'
+  sponsor:  Morgan Worldwide Consultants on behalf of Lexington Catholic High School
 
 Lady: 
   desc: '<div><div>535 West Second Street<br>Lexington, KY </div><div><span>ID:</span>&nbsp;38</div><div><span>Artist:</span>&nbsp;Jean Isaacs Bramlette and Audwin Price</div><div><span>Artist Location:</span>&nbsp;Lexington, KY</div><div><span>Sponsor:</span>&nbsp;West Jefferson Place- Kirkpatrick, Medical Rehabilitation, Owner, Radwan, and Wilmes</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/09/11/2010HM38LadyGodiva_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.054008
   lon:  -84.500549
   title: Lady Godiva's Horse
+  artist: Jean Isaacs Bramlette and Audwin Price
+  artist_location:  'Lexington, KY'
+  sponsor:  'West Jefferson Place- Kirkpatrick, Medical Rehabilitation, Owner, Radwan, and Wilmes'
 
 Le Coeur de Cheval: 
   desc: '<div><div>259 West Short<br>Lexington, KY </div><div><span>ID:</span>&nbsp;39</div><div><span>Artist:</span>&nbsp;Elizabeth Dryden</div><div><span>Artist Location:</span>&nbsp;Lexington, KY</div><div><span>Sponsor:</span>&nbsp;The Mt. Brilliant Family Foundation</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/08/11/2010HM39LeCoeurdeCheval_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.049850
   lon:  -84.499352
   title: Le Coeur de Cheval (The Heart of the Horse)
+  artist: Elizabeth Dryden
+  artist_location:  'Lexington, KY'
+  sponsor:  The Mt. Brilliant Family Foundation
 
 Lesson in Walking on Water: 
   desc: '<div><div>120 West Second Street<br>Lexington, KY </div><div><span>ID:</span>&nbsp;40</div><div><span>Artist:</span>&nbsp;Lennon Michalksi</div><div><span>Artist Location:</span>&nbsp;Lexington , KY</div><div><span>Sponsor:</span>&nbsp;Stoll Keenon Ogden PLLC</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/09/11/2010HM40LessonWater_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.048599
   lon:  -84.495323
   title: Lesson in Walking on Water
+  artist: Lennon Michalksi
+  artist_location:  'Lexington, KY'
+  sponsor:  Stoll Keenon Ogden PLLC
 
 LewHorse Carroll: 
   desc: '<div><div>301 East Main Street<br>Lexington, KY </div><div><span>ID:</span>&nbsp;41</div><div><span>Artist:</span>&nbsp;Charlie Kratzer</div><div><span>Artist Location:</span>&nbsp;Lexington, KY</div><div><span>Sponsor:</span>&nbsp;Blue &amp; Co. LLC</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/08/10/2010HM41LewHorse_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.043152
   lon:  -84.493179
   title: LewHorse Carroll (Alice in Wonderland)
+  artist: Charlie Kratzer
+  artist_location:  'Lexington, KY'
+  sponsor:  'Blue &amp; Co. LLC'
 
 Lexington: 
   desc: '<div><div>120 North Limestone Street<br>Lexington, KY </div><div><span>ID:</span>&nbsp;42</div><div><span>Artist:</span>&nbsp;Phil May</div><div><span>Artist Location:</span>&nbsp;Winchester, KY</div><div><span>Sponsor:</span>&nbsp;Don Jacobs Imports</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/09/11/2010HM42Lexington_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.046234
   lon:  -84.496307
   title: Lexington
+  artist: Phil May
+  artist_location:  'Winchester, KY'
+  sponsor:  Don Jacobs Imports
 
 Lexington Landmarks: 
   desc: '<div><div>Old Morrison Circle &amp; Third Street<br>Lexington, KY </div><div><span>ID:</span>&nbsp;43</div><div><span>Artist:</span>&nbsp;Jennifer Conrad-Barber</div><div><span>Artist Location:</span>&nbsp;Winchester, KY</div><div><span>Sponsor:</span>&nbsp;Transylvania University</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/09/11/2010HM43LexingtonLandmark_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.053684
   lon:  -84.496033
   title: Lexington Landmarks
+  artist: Jennifer Conrad-Barber
+  artist_location:  'Winchester, KY'
+  sponsor:  Transylvania University
 
 Lost in the Fog: 
   desc: '<div><div>121 Midland Avenue<br>Lexington, KY </div><div><span>ID:</span>&nbsp;44</div><div><span>Artist:</span>&nbsp;Lee Sturtevant</div><div><span>Artist Location:</span>&nbsp;Lexington, KY</div><div><span>Sponsor:</span>&nbsp;Rood &amp; Riddle Equine Hospital</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/08/11/2010HM44LostFog_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.041553
   lon:  -84.491096
   title: Lost in the Fog
+  artist: Lee Sturtevant
+  artist_location:  'Lexington, KY'
+  sponsor:  'Rood &amp; Riddle Equine Hospital'
 
 Madame Ivory: 
   desc: '<div><div>121 Midland Avenue<br>Lexington, KY </div><div><span>ID:</span>&nbsp;45</div><div><span>Artist:</span>&nbsp;Kelly Rice Welker</div><div><span>Artist Location:</span>&nbsp;Lexington, KY</div><div><span>Sponsor:</span>&nbsp;Alltech</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/08/11/2010HM45MadameIvory_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.041805
   lon:  -84.490608
   title: Madame Ivory
+  artist: Kelly Rice Welker
+  artist_location:  'Lexington, KY'
+  sponsor:  Alltech
 
 Man O'Worchid: 
   desc: '<div><div>Limestone &amp; Vine<br>Lexington, KY </div><div><span>ID:</span>&nbsp;46</div><div><span>Artist:</span>&nbsp;Nancy C. E. Nardiello</div><div><span>Artist Location:</span>&nbsp;Lexington, KY</div><div><span>Sponsor:</span>&nbsp;Landrum &amp; Shouse, LLP</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/08/14/2010HM46ManOWorchid_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.046268
   lon:  -84.498344
   title: Man O'Worchid
+  artist: Nancy C. E. Nardiello
+  artist_location:  'Lexington, KY'
+  sponsor:  'Landrum &amp; Shouse, LLP'
 
 Me and My Gal: 
   desc: '<div><div>380 S. Mill Street<br>Lexington, KY </div><div><span>ID:</span>&nbsp;47</div><div><span>Artist:</span>&nbsp;Paula Wilson</div><div><span>Artist Location:</span>&nbsp;Newmarket, UK</div><div><span>Sponsor:</span>&nbsp;Balatro Gallery</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/08/14/2010HM47MeandMyGal_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.044914
   lon:  -84.502518
   title: Me and My Gal
+  artist: Paula Wilson
+  artist_location:  'Newmarket, UK'
+  sponsor:  Balatro Gallery
 
 Mechanical Horse: 
   desc: '<div><div>250 West Third Street<br>Lexington, KY </div><div><span>ID:</span>&nbsp;48</div><div><span>Artist:</span>&nbsp;Jerome Wills and Jamie Clausius</div><div><span>Artist Location:</span>&nbsp;Lexington, KY</div><div><span>Sponsor:</span>&nbsp;W.T. Young Storage Co.</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/09/11/2010HM48Mechanical_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.050797
   lon:  -84.494484
   title: Mechanical Horse
+  artist: Jerome Wills and Jamie Clausius
+  artist_location:  'Lexington, KY'
+  sponsor:  W.T. Young Storage Co.
 
 Midway: 
   desc: '<div><div>430 West Vine Street<br>Lexington, KY </div><div><span>ID:</span>&nbsp;49</div><div><span>Artist:</span>&nbsp;Deborah Banta-Westerfield</div><div><span>Artist Location:</span>&nbsp;Versailles</div><div><span>Sponsor:</span>&nbsp;B.T. Westerfield, M.D.</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/08/14/2010HM49Midway_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.050037
   lon:  -84.501648
   title: Midway
+  artist: Deborah Banta-Westerfield
+  artist_location:  'Versailles, KY'
+  sponsor:  'B.T. Westerfield, M.D.'
 
 Mr. Blue Grass: 
   desc: '<div><div>100 Midland Avenue<br>Lexington, KY </div><div><span>ID:</span>&nbsp;50</div><div><span>Artist:</span>&nbsp;Kandace Tatum Potter</div><div><span>Artist Location:</span>&nbsp;Lebanon, KY</div><div><span>Sponsor:</span>&nbsp;Lexington Herald-Leader/Kentucky.com</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/09/11/2010HM50MrBluegrass_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.040852
   lon:  -84.490501
   title: Mr. Blue Grass
+  artist: Kandace Tatum Potter
+  artist_location:  'Lebanon, KY'
+  sponsor:  Lexington Herald-Leader/Kentucky.com
 
 Nightmare: 
   desc: '<div><div>145 West Main Street<br>Lexington, KY </div><div><span>ID:</span>&nbsp;51</div><div><span>Artist:</span>&nbsp;Christy M. Conner</div><div><span>Artist Location:</span>&nbsp;Richmond, KY</div><div><span>Sponsor:</span>&nbsp;Gallery B</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/08/14/2010HM51Nightmare_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.047138
   lon:  -84.497597
   title: Nightmare
+  artist: Christy M. Conner
+  artist_location:  'Richmond, KY'
+  sponsor:  Gallery B
 
 Nihon: 
   desc: '<div><div>380 S. Mill Street<br>Lexington, KY </div><div><span>ID:</span>&nbsp;52</div><div><span>Artist:</span>&nbsp;Yoshihiro Hosokawa \xE9\x82\x8F\xEF\xBD\xB0\xE8\x9F\xBE\xE6\x99\x89\xEF\xBD\xBE\xEF\xBD\xA9\xE8\xA0\x91</div><div><span>Artist Location:</span>&nbsp;Shinhindaka, Japan</div><div><span>Sponsor:</span>&nbsp;Balatro Gallery</div><img hspace=\"1\" src=\"http://media.kentucky.com/smedia/2010/07/09/11/2010HM52NihonnoHaru_150.standalone.prod_affiliate.79.jpg\" valign=\"top\" align=\"center\" border=\"0\" vspace=\"5\"></div>'
   lat:  38.045101
   lon:  -84.502846
   title: "Nihon no Haru \xE6\x97\xA5\xE6\x9C\xAC\xE3\x81\xAE\xE6\x98\xA5 (Spring in Japan)"
+  artist: Yoshihiro Hosokawa \xE9\x82\x8F\xEF\xBD\xB0\xE8\x9F\xBE\xE6\x99\x89\xEF\xBD\xBE\xEF\xBD\xA9\xE8\xA0\x91
+  artist_location:  'Shinhindaka, Japan'
+  sponsor:  Balatro Gallery
 
 Nonesuch Horse: 
   desc: '<div><div>150 Grand Boulevard<br>Lexington, KY </div><div><span>ID:</span>&nbsp;53</div><div><span>Artist:</span>&nbsp;Deborah Banta-Westerfield</div><div><span>Artist Location:</span>&nbsp;Versailles, KY</div><div><span>Sponsor:</span>&nbsp;Nancy Barron &amp; Associates Inc.</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/09/11/2010HM53Nonesuch_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.040066
   lon:  -84.493584
   title: Nonesuch Horse
+  artist: Deborah Banta-Westerfield
+  artist_location:  'Versailles, KY'
+  sponsor:  'Nancy Barron &amp; Associates Inc.'
 
 Normandy: 
   desc: '<div><div>380 S. Mill Street<br>Lexington, KY </div><div><span>ID:</span>&nbsp;54</div><div><span>Artist:</span>&nbsp;Karl Lagasse</div><div><span>Artist Location:</span>&nbsp;Deauville, France</div><div><span>Sponsor:</span>&nbsp;Balatro Gallery</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/08/10/2010HM54Normandy_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.045155
   lon:  -84.502174
   title: Normandy
+  artist: Karl Lagasse
+  artist_location:  'Deauville, France'
+  sponsor:  Balatro Gallery
 
 Old Lexington: 
   desc: '<div><div>1005 Richmond Road<br>Lexington, KY </div><div><span>ID:</span>&nbsp;55</div><div><span>Artist:</span>&nbsp;Barbara Harper-Bach and Neil Sulier</div><div><span>Artist Location:</span>&nbsp;Lexington, KY</div><div><span>Sponsor:</span>&nbsp;Robbins, Truitt &amp; Associates LLC</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/08/11/2010HM55OldLexington_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.033463
   lon:  -84.482300
   title: Old Lexington
+  artist: Barbara Harper-Bach and Neil Sulier
+  artist_location:  'Lexington, KY'
+  sponsor:  'Robbins, Truitt &amp; Associates LLC'
 
 Paisley Pony: 
   desc: '<div><div>330 East Main Street<br>Lexington, KY </div><div><span>ID:</span>&nbsp;56</div><div><span>Artist:</span>&nbsp;Morgan King</div><div><span>Artist Location:</span>&nbsp;Lexington, KY</div><div><span>Sponsor:</span>&nbsp;Commerce Lexington, Inc.</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/09/11/2010HM56PaisleyPony_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.042355
   lon:  -84.492889
   title: Paisley Pony
+  artist: Morgan King
+  artist_location:  'Lexington, KY'
+  sponsor:  'Commerce Lexington, Inc.'
 
 Paris Pike: 
   desc: '<div><div>High Street &amp; Lexington Avenue<br>Lexington, KY </div><div><span>ID:</span>&nbsp;57</div><div><span>Artist:</span>&nbsp;Kathy Rees Johnson</div><div><span>Artist Location:</span>&nbsp;Lexington, KY</div><div><span>Sponsor:</span>&nbsp;Toyota Motor Manufacturing, Kentucky</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/08/14/2010HM57ParisPike_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.043259
   lon:  -84.496948
   title: Paris Pike
+  artist: Kathy Rees Johnson
+  artist_location:  'Lexington, KY'
+  sponsor:  'Toyota Motor Manufacturing, Kentucky'
 
 Pegasus Flight: 
   desc: '<div><div>4000 Terminal Drive<br>Lexington, KY </div><div><span>ID:</span>&nbsp;58</div><div><span>Artist:</span>&nbsp;Tony Higdon and Erika Strecker</div><div><span>Artist Location:</span>&nbsp;Lexington, KY</div><div><span>Sponsor:</span>&nbsp;Calumet Farm</div><img src="http://media.kentucky.com/smedia/2010/07/09/11/2010HM59PegasusFlight_150.standalone.prod_affiliate.79.jpg" valign="top" vspace="5" align="center" border="0" hspace="1"></div>'
   lat:  38.035706
   lon:  -84.598648
   title: Pegasus Flight
+  artist: Tony Higdon and Erika Strecker
+  artist_location:  'Lexington, KY'
+  sponsor:  Calumet Farm
 
 Philanthropist: 
   desc: '<div><div>250 West Third Street<br>Lexington, KY </div><div><span>ID:</span>&nbsp;59</div><div><span>Artist:</span>&nbsp;Peter Williams</div><div><span>Artist Location:</span>&nbsp;Lousiville, KY</div><div><span>Sponsor:</span>&nbsp;Mr. Alex G. Campbell, Jr.</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/08/14/2010HM60Philanthropist_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.050102
   lon:  -84.495583
   title: Philanthropist
+  artist: Peter Williams
+  artist_location:  'Lousiville, KY'
+  sponsor:  'Mr. Alex G. Campbell, Jr.'
 
 Pride: 
   desc: '<div><div>251 West Second Street<br>Lexington, KY </div><div><span>ID:</span>&nbsp;60</div><div><span>Artist:</span>&nbsp;Mauricio Crane</div><div><span>Artist Location:</span>&nbsp;Lexington, KY</div><div><span>Sponsor:</span>&nbsp;Bluegrass Hospitality Group</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/09/11/2010HM61Pride_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.049767
   lon:  -84.495941
   title: Pride
+  artist: Mauricio Crane
+  artist_location:  'Lexington, KY'
+  sponsor:  Bluegrass Hospitality Group
 
 Race to Reason: 
   desc: '<div><div>430 West Vine Street<br>Lexington, KY </div><div><span>ID:</span>&nbsp;61</div><div><span>Artist:</span>&nbsp;Philip March Jones</div><div><span>Artist Location:</span>&nbsp;Lexington, KY</div><div><span>Sponsor:</span>&nbsp;Creative Educational Concepts</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/09/11/2010HM62RaceReason_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.049530
   lon:  -84.501221
   title: Race to Reason
+  artist: Philip March Jones
+  artist_location:  'Lexington, KY'
+  sponsor:  Creative Educational Concepts
 
 Raise a Native: 
   desc: '<div><div>High Street &amp; Lexington Avenue<br>Lexington, KY </div><div><span>ID:</span>&nbsp;62</div><div><span>Artist:</span>&nbsp;Lida Evans</div><div><span>Artist Location:</span>&nbsp;Lexington, KY</div><div><span>Sponsor:</span>&nbsp;Cambridge Insurance Carson Evans, Partner</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/09/11/2010HM63RaiseNative_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.043537
   lon:  -84.497330
   title: Raise a Native
+  artist: Lida Evans
+  artist_location:  'Lexington, KY'
+  sponsor:  'Cambridge Insurance Carson Evans, Partner'
 
 Red River Parade: 
   desc: '<div><div>Mill &amp; Vine<br>Lexington, KY </div><div><span>ID:</span>&nbsp;63</div><div><span>Artist:</span>&nbsp;John Lackey</div><div><span>Artist Location:</span>&nbsp;Lexington, KY</div><div><span>Sponsor:</span>&nbsp;Downtown Lexington Corporation Foundation</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/09/11/2010HM64RedRiver_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.047680
   lon:  -84.499794
   title: Red River Parade
+  artist: John Lackey
+  artist_location:  'Lexington, KY'
+  sponsor:  Downtown Lexington Corporation Foundation
 
 Run for the Rosaries: 
   desc: '<div><div>423 W. Short Street<br>Lexington, KY </div><div><span>ID:</span>&nbsp;64</div><div><span>Artist:</span>&nbsp;Beth Ettensohn and Her Art Students</div><div><span>Artist Location:</span>&nbsp;Lexington, KY</div><div><span>Sponsor:</span>&nbsp;Saints Peter and Paul School</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/08/10/2010HM65RunForRosaries_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.050220
   lon:  -84.499702
   title: Run for the Rosaries
+  artist: Beth Ettensohn and Her Art Students
+  artist_location:  'Lexington, KY'
+  sponsor:  Saints Peter and Paul School
 
 Running Around in Circles: 
   desc: '<div><div>400 West Main Street<br>Lexington, KY </div><div><span>ID:</span>&nbsp;65</div><div><span>Artist:</span>&nbsp;Blake Snyder Eames</div><div><span>Artist Location:</span>&nbsp;Lexington, KY</div><div><span>Sponsor:</span>&nbsp;Bluegrass Sotheby\xE2\x80\x99s International Realty</div><img hspace=\"1\" src=\"http://media.kentucky.com/smedia/2010/07/09/11/2010HM66RunningCircles_150.standalone.prod_affiliate.79.jpg\" valign=\"top\" align=\"center\" border=\"0\" vspace=\"5\"></div>'
   lat:  38.049023
   lon:  -84.500618
   title: Running Around in Circles
+  artist: Blake Snyder Eames
+  artist_location:  'Lexington, KY'
+  sponsor:  Bluegrass Sotheby\xE2\x80\x99s International Realty
 
 Sam: 
   desc: '<div><div>Euclid &amp; Lime<br>Lexington, KY </div><div><span>ID:</span>&nbsp;66</div><div><span>Artist:</span>&nbsp;Karen Spears</div><div><span>Artist Location:</span>&nbsp;Lexington, KY</div><div><span>Sponsor:</span>&nbsp;Alliance Coal, LLC</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/09/11/2010HM67SamtheFan_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.041401
   lon:  -84.503273
-  title: Sam, the Fan
+  title: 'Sam, the Fan'
+  artist: Karen Spears
+  artist_location:  'Lexington, KY'
+  sponsor:  'Alliance Coal, LLC'
 
 Saw(yier)Horse: 
   desc: '<div><div>325 W. Main St.<br>Lexington, KY </div><div><span>ID:</span>&nbsp;67</div><div><span>Artist:</span>&nbsp;Marianna McDonald</div><div><span>Artist Location:</span>&nbsp;Lexington, KY</div><div><span>Sponsor:</span>&nbsp;Sawyer\xE2\x80\x99s Downtown</div><img hspace=\"1\" src=\"http://media.kentucky.com/smedia/2010/07/08/11/2010HM68Sawyier_150.standalone.prod_affiliate.79.jpg\" valign=\"top\" align=\"center\" border=\"0\" vspace=\"5\"></div>'
   lat:  38.049343
   lon:  -84.498711
   title: Saw(yier)Horse
+  artist: Marianna McDonald
+  artist_location:  'Lexington, KY'
+  sponsor:  Sawyer\xE2\x80\x99s Downtown
 
 Silver Rose: 
   desc: '<div><div>250 West Main Street<br>Lexington, KY </div><div><span>ID:</span>&nbsp;68</div><div><span>Artist:</span>&nbsp;Chris Huestis</div><div><span>Artist Location:</span>&nbsp;Lexington, KY</div><div><span>Sponsor:</span>&nbsp;The Webb Companies</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/08/11/2010HM69SilverRose_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.047199
   lon:  -84.498283
   title: Silver Rose
+  artist: Chris Huestis
+  artist_location:  'Lexington, KY'
+  sponsor:  The Webb Companies
 
 The Siren of the Bluegrass: 
   desc: '<div><div>430 West Vine Street<br>Lexington, KY </div><div><span>ID:</span>&nbsp;69</div><div><span>Artist:</span>&nbsp;Anne Bates Allen and Lucie Slone-Meyers</div><div><span>Artist Location:</span>&nbsp;Lexington, KY</div><div><span>Sponsor:</span>&nbsp;Lexair, Inc.</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/09/11/2010HM70SirenOfBluegrass_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.048801
   lon:  -84.501328
   title: The Siren of the Bluegrass
+  artist: Anne Bates Allen and Lucie Slone-Meyers
+  artist_location:  'Lexington, KY'
+  sponsor:  'Lexair, Inc.'
 
 Sister Cities: 
   desc: '<div><div>4000 Terminal Drive<br>Lexington, KY </div><div><span>ID:</span>&nbsp;70</div><div><span>Artist:</span>&nbsp;Pat Lawrence</div><div><span>Artist Location:</span>&nbsp;Lexington, KY</div><div><span>Sponsor:</span>&nbsp;Blue Grass Airport</div><img src="http://media.kentucky.com/smedia/2010/07/08/14/2010HM71SisterCities_150.standalone.prod_affiliate.79.jpg" valign="top" vspace="5" align="center" border="0" hspace="1"></div>'
   lat:  38.041046
   lon:  -84.597107
   title: Sister Cities
+  artist: Pat Lawrence
+  artist_location:  'Lexington, KY'
+  sponsor:  Blue Grass Airport
 
 Star Dust Memories: 
   desc: '<div><div>Main Street &amp; Quality<br>Lexington, KY </div><div><span>ID:</span>&nbsp;71</div><div><span>Artist:</span>&nbsp;Robert Morgan</div><div><span>Artist Location:</span>&nbsp;Lexington, KY</div><div><span>Sponsor:</span>&nbsp;Gray Construction</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/08/14/2010HM72Stardust_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.043682
   lon:  -84.494530
   title: Star Dust Memories
+  artist: Robert Morgan
+  artist_location:  'Lexington, KY'
+  sponsor:  Gray Construction
 
 Stone Horse: 
   desc: '<div><div>807 South Limestone<br>Lexington, KY </div><div><span>ID:</span>&nbsp;72</div><div><span>Artist:</span>&nbsp;Darryl Halbrooks</div><div><span>Artist Location:</span>&nbsp;Richmond, KY</div><div><span>Sponsor:</span>&nbsp;UK Healthcare</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/09/11/2010HM73StoneHorse_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.033157
   lon:  -84.508980
   title: Stone Horse
+  artist: Darryl Halbrooks
+  artist_location:  'Richmond, KY'
+  sponsor:  UK Healthcare
 
 The Strand: 
   desc: '<div><div>121 Midland Avenue<br>Lexington, KY </div><div><span>ID:</span>&nbsp;73</div><div><span>Artist:</span>&nbsp;Blake Snyder Eames</div><div><span>Artist Location:</span>&nbsp;Lexington, KY</div><div><span>Sponsor:</span>&nbsp;163 E. Main Street, LLC</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/08/14/2010HM74Strand_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.041451
   lon:  -84.490074
   title: The Strand
+  artist: Blake Snyder Eames
+  artist_location:  'Lexington, KY'
+  sponsor:  '163 E. Main Street, LLC'
 
 Streamlined: 
   desc: '<div><div>400 East Vine Street<br>Lexington, KY </div><div><span>ID:</span>&nbsp;74</div><div><span>Artist:</span>&nbsp;Philip High</div><div><span>Artist Location:</span>&nbsp;Lexington, KY</div><div><span>Sponsor:</span>&nbsp;CMW Architects &amp; Engineers</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/09/11/2010HM75Streamlined_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.040726
   lon:  -84.492180
   title: Streamlined
+  artist: Philip High
+  artist_location:  'Lexington, KY'
+  sponsor:  'CMW Architects &amp; Engineers'
 
 Teacup: 
   desc: '<div><div>360 East Vine Street<br>Lexington, KY </div><div><span>ID:</span>&nbsp;75</div><div><span>Artist:</span>&nbsp;Kimberly Comstock</div><div><span>Artist Location:</span>&nbsp;Lexington, KY</div><div><span>Sponsor:</span>&nbsp;Powell Walton Milward, a Division of J. Smith Lanier &amp; Co.</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/08/10/2010HM76Teacup_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.041054
   lon:  -84.492744
   title: Teacup
+  artist: Kimberly Comstock
+  artist_location:  'Lexington, KY'
+  sponsor:  'Powell Walton Milward, a Division of J. Smith Lanier &amp; Co.'
 
 These Colors Run: 
   desc: '<div><div>533 East Main Street<br>Lexington, KY </div><div><span>ID:</span>&nbsp;76</div><div><span>Artist:</span>&nbsp;Mary Wathen</div><div><span>Artist Location:</span>&nbsp;Lexington, KY</div><div><span>Sponsor:</span>&nbsp;George Van Meter, Jr.</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/09/11/2010HM77TheseColors_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.038456
   lon:  -84.488052
   title: These Colors Run
+  artist: Mary Wathen
+  artist_location:  'Lexington, KY'
+  sponsor:  'George Van Meter, Jr.'
 
 A Three on the Sheets: 
   desc: '<div><div>121 Midland Avenue<br>Lexington, KY </div><div><span>ID:</span>&nbsp;77</div><div><span>Artist:</span>&nbsp;Kim Comstock</div><div><span>Artist Location:</span>&nbsp;Lexington, KY</div><div><span>Sponsor:</span>&nbsp;Gainesway Farm</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/09/12/2010HM78ThreeSheets_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.041267
   lon:  -84.490700
   title: A Three on the Sheets
+  artist: Kim Comstock
+  artist_location:  'Lexington, KY'
+  sponsor:  Gainesway Farm
+  
 
 Toulouse-La Track: 
   desc: '<div><div>4250 Iron Works Pike<br>Lexington, KY </div><div><span>ID:</span>&nbsp;78</div><div><span>Artist:</span>&nbsp;Priscilla Roberts Fallon and Anna Daniel Hall</div><div><span>Artist Location:</span>&nbsp;Lexington, KY</div><div><span>Sponsor:</span>&nbsp;The Employees of Hagyard Equine Medical Institute</div><img src="http://media.kentucky.com/smedia/2010/07/08/11/2010HM79Toulouse_150.standalone.prod_affiliate.79.jpg" valign="top" vspace="5" align="center" border="0" hspace="1"></div>'
   lat:  38.149452
   lon:  -84.534943
   title: Toulouse-La Track
+  artist: Priscilla Roberts Fallon and Anna Daniel Hall
+  artist_location:  'Lexington, KY'
+  sponsor:  The Employees of Hagyard Equine Medical Institute
 
 True Colors: 
   desc: '<div><div>4000 Terminal Drive<br>Lexington, KY </div><div><span>ID:</span>&nbsp;79</div><div><span>Artist:</span>&nbsp;Neil Di Teresa</div><div><span>Artist Location:</span>&nbsp;Berea, KY</div><div><span>Sponsor:</span>&nbsp;The Lane Report/Lane Consultants</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/08/11/2010HM80TrueColors_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.038071
   lon:  -84.604576
   title: True Colors
+  artist: Neil Di Teresa
+  artist_location:  'Berea, KY'
+  sponsor:  The Lane Report/Lane Consultants
 
 Urban Legend: 
   desc: '<div><div>250 West Third Street<br>Lexington, KY </div><div><span>ID:</span>&nbsp;80</div><div><span>Artist:</span>&nbsp;Damon Farmer</div><div><span>Artist Location:</span>&nbsp;Versailles, KY</div><div><span>Sponsor:</span>&nbsp;Clay-Ingels Co.</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/08/14/2010HM81UrbanLegend_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.050343
   lon:  -84.495171
   title: Urban Legend
+  artist: Damon Farmer
+  artist_location:  'Versailles, KY'
+  sponsor:  Clay-Ingels Co.
 
 Wild Paint: 
   desc: '<div><div>High Street &amp; Lexington Avenue<br>Lexington, KY </div><div><span>ID:</span>&nbsp;81</div><div><span>Artist:</span>&nbsp;Kathryn Wise</div><div><span>Artist Location:</span>&nbsp;Georgetown, KY</div><div><span>Sponsor:</span>&nbsp;Oldcastle Precast, Inc.</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/09/12/2010HM82WildPaint_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.043236
   lon:  -84.497284
   title: Wild Paint
+  artist: Kathryn Wise
+  artist_location:  'Georgetown, KY'
+  sponsor:  'Oldcastle Precast, Inc.'
 
 Wildflower: 
   desc: '<div><div>150 North Broadway<br>Lexington, KY </div><div><span>ID:</span>&nbsp;82</div><div><span>Artist:</span>&nbsp;Anne Kindl</div><div><span>Artist Location:</span>&nbsp;Lexington, KY</div><div><span>Sponsor:</span>&nbsp;Broadway Christian Church, Garmer &amp; Prather, PLLC, Milward Funeral Directors and Lexington Opera House</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/09/12/2010HM83Wildflower_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.050274
   lon:  -84.498283
   title: Wildflower
+  artist: Anne Kindl
+  artist_location:  'Lexington, KY'
+  sponsor:  'Broadway Christian Church, Garmer &amp; Prather, PLLC, Milward Funeral Directors and Lexington Opera House'
