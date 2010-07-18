@@ -1,0 +1,80 @@
+<% title "Horse Mania 2010 - Photo detail", false %>
+
+<div id="main">
+	<h3><a href="#">samwilson<a>'s photo of <a href="#">Nightmare</a> (by <a href="#">Sandra Keys</a>)</h3>
+	<ul id="photos">
+		<li class="photo">
+			<div class="photo-wrapper">
+				<a href="#"><img src="/images/horse1-large-thumb.jpg" /></a>
+			</div>
+		</li>
+	</ul>	
+	
+	<div class="actions"><a href="#">full size</a> | <a href="#">email</a> | <a href="#">tweet</a> | <a href="#">share on facebook</a></div>
+
+	<h2>comments</h2>
+	<div class="actions"><a href="#">add comment</a></div>
+	
+	<ol id="comments">
+		<li class="comment">
+			<span class="which-horse">horse: <a href="#">Nightmare</a></span>
+			<div class="comment-wrapper">
+				Just hold your horses for a second mister.
+			</div>
+			<div class="meta">
+				<span class="time">by <a href="#">samwilson</a> 5 minutes ago</span>
+			</div>
+		</li>
+		<li class="comment">
+			<span class="which-horse">horse: <a href="#">Nightmare</a></span>
+			<div class="comment-wrapper">
+				Just hold your horses for a second mister.
+			</div>
+			<div class="meta">
+				<span class="time">by <a href="#">samwilson</a> 5 minutes ago</span>
+			</div>
+		</li>
+		<li class="comment">
+			<span class="which-horse">horse: <a href="#">Nightmare</a></span>
+			<div class="comment-wrapper">
+				Just hold your horses for a second mister.
+			</div>
+			<div class="meta">
+				<span class="time">by <a href="#">samwilson</a> 5 minutes ago</span>
+			</div>
+		</li>
+		<li class="comment">
+			<span class="which-horse">horse: <a href="#">Nightmare</a></span>
+			<div class="comment-wrapper">
+				Just hold your horses for a second mister.
+			</div>
+			<div class="meta">
+				<span class="time">by <a href="#">samwilson</a> 5 minutes ago</span>
+			</div>
+		</li>
+		<li class="comment">
+			<span class="which-horse">horse: <a href="#">Nightmare</a></span>
+			<div class="comment-wrapper">
+				Just hold your horses for a second mister.
+			</div>
+			<div class="meta">
+				<span class="time">by <a href="#">samwilson</a> 5 minutes ago</span>
+			</div>
+		</li>
+	</ol>	
+	
+	
+</div>
+<div id="secondary">
+	<%= @map.to_html %>
+	<div id="small-map-wrap">
+	  <%= @map.div %>
+	</div>
+	<div class="address">
+		123 E. Main Street<br />Lexington, KY<br /><a href="#">link</a>
+	</div>
+</div>
+
+<% content_for :head do %>
+	<link href="/stylesheets/mockups/index.css" rel="stylesheet" type="text/css" media="screen" />
+<% end %>

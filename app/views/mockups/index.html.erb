@@ -1,0 +1,41 @@
+<% title "Horse Mania 2010", false %>
+
+<div id="main">
+	<%= @map.to_html %>
+	<div id="map-wrap">
+	  <%= @map.div %>
+	</div>
+</div>
+<div id="secondary">
+	<h2>Most recent photos</h2>
+	<div class="actions"><a href="#">see all</a> | <a href="#">upload photo</a></div>
+	<ul id="photos">
+		<li class="photo">
+			<div class="photo-wrapper">
+				<a href="#"><img src="/images/horse1-medium-thumb.jpg" /></a>
+			</div>
+			<div class="meta">
+				<span class="which-horse">horse: <a href="#">Nightmare</a></span>
+				<span class="time">Uploaded by <a href="#">chasex</a> 15 minutes ago</span>
+				<span class="comments">2 <a href="#">comments</a></span>				
+			</div>
+		</li>
+		<li class="photo">
+			<div class="photo-wrapper">
+				<a href="#"><img src="/images/horse1-medium-thumb.jpg" /></a>
+			</div>			
+			<div class="meta">
+				<span class="which-horse">horse: <a href="#">Nightmare</a></span>
+				<span class="time">Uploaded by <a href="#">chasex</a> 15 minutes ago</span>
+				<span class="comments">2 <a href="#">comments</a></span>				
+			</div>
+		</li>
+		
+	</ul>
+	<div class="actions"><a href="#">see all</a> | <a href="#">upload photo</a></div>
+	
+</div>
+
+<% content_for :head do %>
+	<link href="/stylesheets/mockups/index.css" rel="stylesheet" type="text/css" media="screen" />
+<% end %>
