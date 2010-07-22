@@ -9,7 +9,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20100720005446) do
+ActiveRecord::Schema.define(:version => 20100722015255) do
 
   create_table "assets", :force => true do |t|
     t.string   "data_file_name"
@@ -41,6 +41,17 @@ ActiveRecord::Schema.define(:version => 20100720005446) do
     t.string   "artist"
     t.string   "artist_location"
     t.string   "sponsor"
+  end
+
+  create_table "photos", :force => true do |t|
+    t.string   "title"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+    t.string   "upload_file_name"
+    t.string   "upload_content_type"
+    t.integer  "upload_file_size"
+    t.datetime "upload_updated_at"
+    t.integer  "user_id"
   end
 
   create_table "users", :force => true do |t|
