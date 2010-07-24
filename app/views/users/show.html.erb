@@ -1,0 +1,9 @@
+<%= @user.username %>
+
+<ul>
+  <% for photo in @user.photos %>
+    <li>
+      <%= image_tag photo.url %>
+    </li>
+  <% end %>
+</ul>
