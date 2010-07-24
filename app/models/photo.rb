@@ -1,5 +1,4 @@
 class Photo < ActiveRecord::Base
-  belongs_to :user
   attr_accessible :title
   attr_protected :upload_file_name, :upload_content_type, :upload_size
   
@@ -10,4 +9,8 @@ class Photo < ActiveRecord::Base
   validates_attachment_presence :upload
   validates_attachment_size :upload, :less_than => 1.megabytes
   validates_attachment_content_type :upload, :content_type => ['image/jpeg']
+  
+  belongs_to :user
+  belongs_to :location
+  
 end
