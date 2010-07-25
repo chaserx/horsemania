@@ -1,0 +1,21 @@
+/* @override http://localhost:3000/stylesheets/mockups/horses.css */
+
+
+div.info {
+	float: left;
+	width: 250px;
+	margin-left: 1em;
+	clear: none;
+}
+
+body#horses #main {
+	margin: 0 20px 0 20px;	
+}
+
+div.photo-wrapper {
+	width: 160px;
+	height: 120px;
+	float: left;
+	clear: none;
+	
+}
