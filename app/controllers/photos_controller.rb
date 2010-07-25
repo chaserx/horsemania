@@ -2,7 +2,7 @@ class PhotosController < ApplicationController
   def index
     if logged_in?
       @user = current_user
-      @photos = current_user.photo.paginate :page => params[:page], :order => 'updated_at DESC'
+      @photos = current_user.photos.paginate :page => params[:page], :order => 'updated_at DESC'
     else
       @photos = Photo.paginate :page => params[:page], :order => 'updated_at DESC'
       @user = User.all
