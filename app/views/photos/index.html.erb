@@ -7,11 +7,14 @@
   <% for photo in @photos %>
     <tr>
       <td><%=h photo.title %></td>
-      <td><%= link_to "Show", photo %></td>
-      <td><%= link_to "Edit", edit_photo_path(photo) %></td>
-      <td><%= link_to "Destroy", photo, :confirm => 'Are you sure?', :method => :delete %></td>
+      <% if current_user %>
+        <td><%= link_to "Show", photo %></td>
+        <td><%= link_to "Edit", edit_photo_path(photo) %></td>
+        <td><%= link_to "Destroy", photo, :confirm => 'Are you sure?', :method => :delete %></td>
+      <% end %>
     </tr>
   <% end %>
 </table>
-
-<p><%= link_to "New Photo", new_photo_path %></p>
+<% if current_user %>
+  <p><%= link_to "New Photo", new_photo_path %></p>
+<% end %>

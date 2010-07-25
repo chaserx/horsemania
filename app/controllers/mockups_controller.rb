@@ -48,7 +48,13 @@ class MockupsController < ApplicationController
 	
 	# purely demo // of a page with lots of videos
 	def photos
-	  
+	  # Lookup all Locations
+	  @location = Location.all
+	  # Go through the user model to return photos if not nil?
+	  # maybe. current error => undefined method 'photos' for array.
+	  unless @location.users.photos.nil?
+	    @locaton.users.photos
+	  end
   end
   
 	# purely demo // of a page that has one photo
