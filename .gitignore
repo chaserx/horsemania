@@ -6,3 +6,4 @@ db/*.sqlite3
 config/config.yml
 config/passwords_config.yml
 public/system/*
+public/assets/*
