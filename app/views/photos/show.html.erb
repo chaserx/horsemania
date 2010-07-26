@@ -3,6 +3,8 @@
 <p>
   <strong>Title:</strong>
   <%=h @photo.title %>
+  <br />
+  <%= image_tag @photo.upload.url(:medium) %>
 </p>
 
 <p>
