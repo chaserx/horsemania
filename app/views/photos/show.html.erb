@@ -8,7 +8,7 @@
 </p>
 
 <p>
-  <%= link_to "Edit", edit_photo_path(@photo) %> |
-  <%= link_to "Destroy", @photo, :confirm => 'Are you sure?', :method => :delete %> |
-  <%= link_to "View All", photos_path %>
+  <%= link_to "Edit", edit_location_photo_path(@location, @photo) %> |
+  <%= link_to "Destroy", [@location, @photo], :confirm => 'Are you sure?', :method => :delete %> |
+  <%= link_to "View All", locations_path %>
 </p>

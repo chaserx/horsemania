@@ -28,11 +28,20 @@
   <strong>Sponsor:</strong>
   <%=h @location.sponsor %>
 </p>
-<ul>
-  <% for asset in @location.assets %>
-    <li><%= image_tag asset.url(:large) %></li>
+<p>
+  <strong>Photos:</strong>
+  <ul>
+  <% @location.photos.each do |photo| %>
+    <li>
+      <p><em>Posted by: <%= photo.user.username %></em></p>
+      <%= image_tag photo.upload.url(:medium) %>
+    </li>
   <% end %>
-</ul>
+  <ul>
+</p>
+
+<%= render :partial => "add_photo", :locals => { :location => @location,
+  :user => current_user } %>
 
 <p>
   <%= link_to "Edit", edit_location_path(@location) %> |

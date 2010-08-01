@@ -1,6 +1,4 @@
 ActionController::Routing::Routes.draw do |map|
-  map.resources :photos
-
   map.signup 'signup', :controller => 'users', :action => 'new'
   map.logout 'logout', :controller => 'user_sessions', :action => 'destroy'
   map.login 'login', :controller => 'user_sessions', :action => 'new'
@@ -8,7 +6,9 @@ ActionController::Routing::Routes.draw do |map|
 
   map.resources :users
 
-  map.resources :locations
+  map.resources :locations do |locations|
+   locations.resources :photos
+  end
 
   # The priority is based upon order of creation: first created -> highest priority.
 

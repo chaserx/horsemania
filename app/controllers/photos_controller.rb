@@ -1,35 +1,45 @@
 class PhotosController < ApplicationController
+  before_filter :set_location
+  before_filter :login_required, :except => :index
+
   def index
-    if logged_in?
-      @user = current_user
-      @photos = current_user.photos.paginate :page => params[:page], :order => 'updated_at DESC'
-    else
-      @photos = Photo.paginate :page => params[:page], :order => 'updated_at DESC'
-      @user = User.all
-    end
+    @photos = @location.photos.paginate :page => params[:page], :order => 'updated_at DESC'
   end
-  
+
   def new
     @photo = Photo.new
   end
-  
+
   def create
-    @photo = Photo.new(params[:photo])
-    @photo = current_user.photos.create(params[:photo])
+    @photo = @location.photos.build(params[:photo])
+
+    @photo.user = current_user
+
     if @photo.save
       flash[:notice] = "Successfully created photo."
-      redirect_to @photo
+      redirect_to location_photo_path(@location, @photo)
     else
-      render :action => 'new'
+      redirect_to location_path(@location)
     end
   end
-  
+
   def edit
-    @photo = Photo.find(params[:id])
+    begin
+      @photo = current_user.photos.find(params[:id])
+    rescue ActiveRecord::RecordNotFound => e
+      flash[:error] = "This is not your photo to edit!"
+      redirect_to location_path(@location)
+    end
   end
-  
+
   def update
-    @photo = Photo.find(params[:id])
+    begin
+      @photo = current_user.photos.find(params[:id])
+    rescue ActiveRecord::RecordNotFound => e
+      flash[:error] = "This is not your photo to edit!"
+      redirect_to location_path(@location)
+    end
+
     if @photo.update_attributes(params[:photo])
       flash[:notice] = "Successfully updated photo."
       redirect_to @photo
@@ -37,15 +47,26 @@ class PhotosController < ApplicationController
       render :action => 'edit'
     end
   end
-  
+
   def show
-    @photo = Photo.find(params[:id])
+    @photo = @location.photos.find(params[:id])
   end
-  
+
   def destroy
-    @photo = Photo.find(params[:id])
+    begin
+      @photo = current_user.photos.find(params[:id])
+    rescue ActiveRecord::RecordNotFound => e
+      flash[:error] = "This is not your photo to delete!"
+      redirect_to location_path(@location)
+    end
+
     @photo.destroy
     flash[:notice] = "Successfully destroyed photo."
-    redirect_to photos_url
+    redirect_to locations_url
   end
+
+  private
+    def set_location
+      @location = Location.find(params[:location_id])
+    end
 end

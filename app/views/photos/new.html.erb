@@ -1,5 +1,5 @@
 <% title "New Photo" %>
 
-<%= render :partial => 'form' %>
+<%= render :partial => 'form', :locals => { :location => @location, :photo => @photo }   %>
 
-<p><%= link_to "Back to List", photos_path %></p>
+<p><%= link_to "Back to List", location_path(@location) %></p>
