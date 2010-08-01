@@ -40,8 +40,12 @@
   <ul>
 </p>
 
+<% if logged_in? %>
 <%= render :partial => "add_photo", :locals => { :location => @location,
   :user => current_user } %>
+<% else %>
+  <p><%= link_to "Sign up", signup_url %> or <%= link_to "log in", login_url %> to post your own photos!</p>
+<% end %>
 
 <p>
   <%= link_to "Edit", edit_location_path(@location) %> |
