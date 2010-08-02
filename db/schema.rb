@@ -9,7 +9,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20100725200552) do
+ActiveRecord::Schema.define(:version => 20100802010120) do
 
   create_table "assets", :force => true do |t|
     t.string   "data_file_name"
@@ -41,6 +41,7 @@ ActiveRecord::Schema.define(:version => 20100725200552) do
     t.string   "artist"
     t.string   "artist_location"
     t.string   "sponsor"
+    t.string   "permalink"
   end
 
   create_table "photos", :force => true do |t|

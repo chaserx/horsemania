@@ -84,3 +84,8 @@ a {
   float: right;
   font-size: 12px;
 }
+
+#map {
+  width: 500px;
+  height: 500px;
+}

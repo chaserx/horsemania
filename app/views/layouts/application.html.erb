@@ -4,6 +4,10 @@
   <head>
     <title><%= h(yield(:title) || "Untitled") %></title>
     <%= stylesheet_link_tag 'application' %>
+    <%= javascript_include_tag "http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" %>
+    <%# We have to use a regular script tag until ticket #1644 gets fixed in 2.3.9 %>
+    <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false&key=ABQIAAAAgQKeq-1jCrgwPSqv6OZttRTJQa0g3IQ9GZqIMmInSLzwtGDKaBQwtTjWHfJCEh6Zajlrr91-ew3bUA"></script>
+    <%= javascript_include_tag :defaults %>
     <%= yield(:head) %>
   </head>
   <body>
@@ -11,11 +15,11 @@
       <%- flash.each do |name, msg| -%>
         <%= content_tag :div, msg, :id => "flash_#{name}" %>
       <%- end -%>
-      
+
       <%- if show_title? -%>
         <h1><%=h yield(:title) %></h1>
       <%- end -%>
-      
+
       <%= yield %>
     </div>
   </body>

@@ -6,7 +6,7 @@ ActionController::Routing::Routes.draw do |map|
 
   map.resources :users
 
-  map.resources :locations do |locations|
+  map.resources :locations, :as => "horses" do |locations|
    locations.resources :photos
   end
 
