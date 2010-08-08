@@ -7,7 +7,7 @@
                   mapTypeId: google.maps.MapTypeId.ROADMAP
                 }
 
-  var map = new google.maps.Map(document.getElementById("map"), options);
+  var map = new google.maps.Map(document.getElementById("map-wrap"), options);
   var info_window = new google.maps.InfoWindow;
 
   $.getJSON("/horses.json", function(horses) {
