@@ -1,17 +1,12 @@
-<% title "Locations" %>
-<!--
-<table>
-  <tr>
-    <th>Title</th>
-    <th>Desc</th>
-    <th>Lat</th>
-    <th>Lon</th>
-  </tr>
-//-->
-  <div id="map">
-  </div>
+<% title "Horse Mania 2010", false %>
 
-  <ol>
+<div id="main">
+	<div id="map-wrap">
+	</div>
+</div>
+<div id="secondary">
+	
+	<ul id="photos">
   <% for location in @locations %>
 
       <li><%=h location.title %> :<%= link_to "Show", location %> | <%= link_to "Edit", edit_location_path(location) %> | <%= link_to "Destroy", location, :confirm => 'Are you sure?', :method => :delete %></li>
@@ -28,7 +23,40 @@
     </tr>
     //-->
   <% end %>
-  </ol>
-<!-- </table> //-->
+  </ul>	
+	
+<!--	
+	<h2>Most recent photos</h2>
+	<div class="actions"><a href="#">see all</a> | <a href="#">upload photo</a></div>
+	<ul id="photos">
+		<li class="photo">
+			<div class="photo-wrapper">
+				<a href="#"><img src="/images/horse1-medium-thumb.jpg" /></a>
+			</div>
+			<div class="meta">
+				<span class="which-horse">horse: <a href="#">Nightmare</a></span>
+				<span class="time">Uploaded by <a href="#">chasex</a> 15 minutes ago</span>
+				<span class="comments">2 <a href="#">comments</a></span>				
+			</div>
+		</li>
+		<li class="photo">
+			<div class="photo-wrapper">
+				<a href="#"><img src="/images/horse1-medium-thumb.jpg" /></a>
+			</div>			
+			<div class="meta">
+				<span class="which-horse">horse: <a href="#">Nightmare</a></span>
+				<span class="time">Uploaded by <a href="#">chasex</a> 15 minutes ago</span>
+				<span class="comments">2 <a href="#">comments</a></span>				
+			</div>
+		</li>
+		
+	</ul>
+	<div class="actions"><a href="#">see all</a> | <a href="#">upload photo</a></div>
+	-->
+	<p><%= link_to "New Location", new_location_path %></p>
+	
+</div>
 
-<p><%= link_to "New Location", new_location_path %></p>
+<% content_for :head do %>
+	<link href="/stylesheets/index.css" rel="stylesheet" type="text/css" media="screen" />
+<% end %>
