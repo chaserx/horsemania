@@ -13,14 +13,15 @@
   $.getJSON("/horses.json", function(horses) {
     $.each(horses, function(index, horse) {
       var geolocation = new google.maps.LatLng(horse.latitude, horse.longitude);
-      var map_marker = new google.maps.Marker({ position: geolocation })
+      var map_marker = new google.maps.Marker({ position: geolocation,
+                                                icon: "/images/horseicon.png"})
 
       google.maps.event.addListener(map_marker, "click", function(event) {
         info_window.content =
           "<div class=\"map-info\">" +
-          "<h2>" + horse.title + "</h2>" +
-          "<img src=\"" + horse.photo + " alt=\"" + horse.title + "\" />" +
-          "<a href=\"" + horse.url + "\">More information on " + horse.title + "</a>" +
+          "<h2>" + horse.title + "<a href=\"" + horse.url + "\" " + "class=\"photos-count\">" + " (" + horse.photos_count + " Photos)" + "</a>" + "</h2>" +
+          "<img src=\"" + horse.photo + "\" alt=\"" + horse.title + "\" />" +
+          "<p><a href=\"" + horse.url + "\">More information on " + horse.title + "</a></p>" +
           "</div>";
 
         info_window.open(map, map_marker);
