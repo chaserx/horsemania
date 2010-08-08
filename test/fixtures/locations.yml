@@ -362,7 +362,7 @@ LewHorse Carroll:
   desc: '<div><div>301 East Main Street<br>Lexington, KY </div><div><span>ID:</span>&nbsp;41</div><div><span>Artist:</span>&nbsp;Charlie Kratzer</div><div><span>Artist Location:</span>&nbsp;Lexington, KY</div><div><span>Sponsor:</span>&nbsp;Blue &amp; Co. LLC</div><img hspace="1" src="http://media.kentucky.com/smedia/2010/07/08/10/2010HM41LewHorse_150.standalone.prod_affiliate.79.jpg" valign="top" align="center" border="0" vspace="5"></div>'
   lat:  38.043152
   lon:  -84.493179
-  title: LewHorse Carroll (Alice in Wonderland)
+  title: LewHorse Carroll
   artist: Charlie Kratzer
   artist_location:  'Lexington, KY'
   sponsor:  'Blue &amp; Co. LLC'
@@ -461,7 +461,7 @@ Nihon:
   desc: '<div><div>380 S. Mill Street<br>Lexington, KY </div><div><span>ID:</span>&nbsp;52</div><div><span>Artist:</span>&nbsp;Yoshihiro Hosokawa \xE9\x82\x8F\xEF\xBD\xB0\xE8\x9F\xBE\xE6\x99\x89\xEF\xBD\xBE\xEF\xBD\xA9\xE8\xA0\x91</div><div><span>Artist Location:</span>&nbsp;Shinhindaka, Japan</div><div><span>Sponsor:</span>&nbsp;Balatro Gallery</div><img hspace=\"1\" src=\"http://media.kentucky.com/smedia/2010/07/09/11/2010HM52NihonnoHaru_150.standalone.prod_affiliate.79.jpg\" valign=\"top\" align=\"center\" border=\"0\" vspace=\"5\"></div>'
   lat:  38.045101
   lon:  -84.502846
-  title: "Nihon no Haru \xE6\x97\xA5\xE6\x9C\xAC\xE3\x81\xAE\xE6\x98\xA5 (Spring in Japan)"
+  title: "Nihon no Haru \xE6\x97\xA5\xE6\x9C\xAC\xE3\x81\xAE\xE6\x98\xA5"
   artist: Yoshihiro Hosokawa \xE9\x82\x8F\xEF\xBD\xB0\xE8\x9F\xBE\xE6\x99\x89\xEF\xBD\xBE\xEF\xBD\xA9\xE8\xA0\x91
   artist_location:  'Shinhindaka, Japan'
   sponsor:  Balatro Gallery
