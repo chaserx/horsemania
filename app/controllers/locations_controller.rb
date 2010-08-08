@@ -56,7 +56,7 @@ class LocationsController < ApplicationController
         :longitude => location.lon,
         :latitude  => location.lat,
         :url       => location_path(location),
-        :photo     => File.join(root_path, "images", location.permalink + ".jpg")
+        :photo     => File.join(root_path, "images", "horses", location.permalink + ".jpg")
       }
     end.to_json
   end
