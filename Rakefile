@@ -8,3 +8,12 @@ require 'rake/testtask'
 require 'rake/rdoctask'
 
 require 'tasks/rails'
+
+namespace :horsemania do
+  desc "Create the permalinks for the Locations."
+  task :create_permalinks => :environment do
+    puts "Creating all permalinks for locations..."
+    Location.all.map(&:save)
+    puts "Permalinks finished!"
+  end
+end
