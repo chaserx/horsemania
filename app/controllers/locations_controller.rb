@@ -52,12 +52,13 @@ class LocationsController < ApplicationController
 
   def json_for(locations)
     locations.map do |location|
-      { :title     => location.title,
-        :longitude => location.lon,
-        :latitude  => location.lat,
-        :url       => location_path(location),
-        :photo     => File.join(root_path, "images", "horses", location.permalink + ".jpg")
-      }
-    end.to_json
-  end
-end
+      { :title        => location.title,
+        :longitude    => location.lon,
+        :latitude     => location.lat,
+        :url          => location_path(location),
+        :photo        => File.join(root_path, "images", "horses", location.permalink + ".jpg"),
+        :photos_count => location.photos.length
+         }
+       end.to_json
+     end
+   end
