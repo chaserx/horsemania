@@ -13,6 +13,6 @@ class Location < ActiveRecord::Base
 
   private
   def create_permalink
-    self.permalink = self.title.parameterize.to_s
+    self.permalink = self.title.gsub("'","").parameterize.to_s
   end
 end
