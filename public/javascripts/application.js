@@ -4,7 +4,8 @@
 
   var options = { zoom: 12,
                   center: lexington,
-                  mapTypeId: google.maps.MapTypeId.ROADMAP
+                  mapTypeId: google.maps.MapTypeId.ROADMAP,
+                  scrollwheel: false
                 }
 
   var map = new google.maps.Map(document.getElementById("map-wrap"), options);
