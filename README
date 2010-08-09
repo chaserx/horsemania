@@ -1,6 +1,6 @@
 # Horse Mania 2010 Map
 
-Locations of all of the horses around Lexington for the Horse Mania 2010 art project. Sponsored by LexArts, Inc.
+Locations of all of the horses around Lexington for the Horse Mania 2010 art project. Sponsored by LexArts, Inc. (This project is not, however.)
 
 There are 82 fixtures available for seeding the db. Some code used from the Lexington Herald-Leader Horse Mania 2010 google map for testing purposes only. Use of this code is for private study, scholarship, and/or research. 
 
@@ -9,6 +9,8 @@ There are 82 fixtures available for seeding the db. Some code used from the Lexi
     rake db:migrate
     
     rake db:seed
+    
+    rake horsemania:create_permalinks
 
 Chase Southard
 7.15.2010
