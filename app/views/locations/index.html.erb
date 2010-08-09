@@ -9,7 +9,7 @@
 	<ul id="photos">
   <% for location in @locations %>
 
-      <li><%=h location.title %> :<%= link_to "Show", location %> | <%= link_to "Edit", edit_location_path(location) %> | <%= link_to "Destroy", location, :confirm => 'Are you sure?', :method => :delete %></li>
+      <li><%= link_to h(location.title), location %></li>
 
     <!-->
     <tr>
@@ -52,8 +52,10 @@
 		
 	</ul>
 	<div class="actions"><a href="#">see all</a> | <a href="#">upload photo</a></div>
-	-->
+
 	<p><%= link_to "New Location", new_location_path %></p>
+	
+-->
 	
 </div>
 
